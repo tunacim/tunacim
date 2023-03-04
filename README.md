@@ -3,6 +3,7 @@
 <h3 align="center">I'm a passionate mobile developer from Turkey and I love being part of the development of mobile technologies.</h3>
 
 - 📫 How to reach me **tunaz783@gmail.com**
+- 🌱 I’m currently learning **React-Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
